@@ -38,7 +38,7 @@ points:
           key:
             column_net: P20
         ring:
-          stagger: 0.7 ky
+          stagger: 0.9 ky
           spread: kx
           key:
             column_net: P19
@@ -67,7 +67,7 @@ points:
     thumbfan:
       anchor:
         ref: matrix_inner_bottom
-        shift: [-1.5 kx, -1 ky]
+        shift: [-1.5 kx, -1.2 ky]
       columns:
         near:
           spread: kx
